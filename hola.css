@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
+
+body{
+	background:#D4F789;
+	}
+	.header{
+	color:#38AB16;
+	font-family:"optima";
+	font-size:35px;
+	text-align: center;
+	}
+	
+	#menu{
+	width:1270px;
+	height:45px;
+	}
+	.barra{
+	padding:16px;
+	}
+	#menu a:hover{
+	color:#FFFFFF;
+	background:#C9C236;
+	transition:1s;
+	transform:scale(1.2);
+	}
+	#menu ul{
+	list-style:none;
+	margin:0;
+	padding:0;
+	text-align:center;
+	}
+	#menu li{
+	float:left;
+	}
+	#menu a{
+	color:#ECA40C;
+	text-decoration:none;
+	display:block;
+	padding:15px 20px;
+	font-family:"Press Start 2P";
+	font-size:15px;
+	}
+	.aside{
+		text-align: left; 
+		font-family:"candara";
+	font-size:12px;
+	}
+form {
+	padding: 50px 20px;
+	background-color: #a8e76d;
+	margin: calc(25% + 100px);
+	margin-top: 70px;
+	padding-top: 28px;
+	margin-bottom: 30px
+}
+input {
+	width: calc(100% - 20px);
+	padding: 9px;
+	margin: auto;
+	margin-top: 12px;
+	font-size: 16px
+}
+
+input[type='submit']{
+	background-color: #00e1ff;
+	color: #ff0022;
+	width: calc(80% - 20px);
+	margin: 0 10%;
+	margin-top: 22px;
+	border: none;
+}
+.rojo {
+color: #FFFFFF;
+text-shadow: 0 0 8px #d43f3a, 0 0 2px #d43f3a, 0 0 10px #d43f3a, 0 0 6px #d43f3a, 0 0 20px #d43f3a, 0 0 20px #d43f3a, 0 0 1px #d43f3a, 0 0 12px #d43f3a;
+font-size: 30px;
+}
+.verde {
+color: #FFFFFF;
+text-shadow: 0 0 8px #1eff00, 0 0 2px #1eff00, 0 0 10px #1eff00, 0 0 6px #1eff00, 0 0 20px #1eff00, 0 0 20px #1eff00, 0 0 1px #1eff00, 0 0 12px #1eff00;
+text-align:center;
+font-size: 65px;
+}
+footer {
+	width: 100%;
+	background:rgb(255, 251, 0);
+	padding:20px 0;
+	color:rgb(0, 4, 255);
+}
+
+footer p {
+	text-align:center;
+}
