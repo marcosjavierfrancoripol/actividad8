@@ -12,10 +12,10 @@
 	<header class="header">Hotel "El cuchitril de sherk"</header>
 	<nav id="menu">
 			<ul>
-				<li><a href="index.html">inicio</a></li>
+				<li><a href="index.php">inicio</a></li>
 				<li class="barra">|</li>
-				<li><a href="form2.html">registro personal</a></li>
+				<li><a href="form2.php">registro personal</a></li>
 				<li class="barra">|</li>
-				<li><a href="form1.html">registro de habitacion</a></li>
+				<li><a href="form1.php">registro de habitacion</a></li>
 			</ul>
 		</nav>
